@@ -176,23 +176,23 @@ Some text to show that the reference links can follow later.
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/shivam534d/MarkDownCheatSheet/blob/main/img/icon48.png "Logo Title Text 1")
 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/shivam534d/MarkDownCheatSheet/blob/main/img/icon48.png "Logo Title Text 2"
 ```
 
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/shivam534d/MarkDownCheatSheet/blob/main/img/icon48.png "Logo Title Text 1")
 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/shivam534d/MarkDownCheatSheet/blob/main/img/icon48.png "Logo Title Text 2"
 
 <a name="code"/>
 
@@ -403,9 +403,3 @@ Or, in pure Markdown, but losing the image sizing and border:
 ```no-highlight
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 ```
-
-Referencing a bug by #bugID in your git commit links it to the slip. For example #1. 
-
----
-
-License: [CC-BY](https://creativecommons.org/licenses/by/3.0/)
